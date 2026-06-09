@@ -29,7 +29,7 @@ A responsive Todo Management application built using React and Tailwind CSS. The
 
 ```bash
 git clone <repository-url>
-cd itask-todo-manager
+cd TodoListApp
 npm install
 npm run dev
 ```
